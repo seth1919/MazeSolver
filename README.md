@@ -1,4 +1,7 @@
 # MazeSolver
+
+See a quick preview of this project on my YouTube channel: https://www.youtube.com/watch?v=AX10GYhfv4o
+
 This is my solution to the maze solving problem presented in Computerphile's maze solving video. You can find it here: https://www.youtube.com/watch?v=rop0W4QDOUI
 
 This project uses an open source maze generator called daedalus. You can find out more here: https://www.astrolog.org/labyrnth/daedalus.htm
